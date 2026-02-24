@@ -1,0 +1,2201 @@
+[
+  {
+    "code": "MUM",
+    "name": "Mumbai",
+    "aliases": [
+      "Bombay",
+      "Bambai",
+      "Mumbai Suburban"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/mumbai.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "DEL",
+    "name": "Delhi",
+    "aliases": [
+      "New Delhi",
+      "NCR Delhi",
+      "Dilli"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/delhi.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "BNG",
+    "name": "Bengaluru",
+    "aliases": [
+      "Bangalore",
+      "Banglore",
+      "Bengalooru"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/bangalore.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "HYD",
+    "name": "Hyderabad",
+    "aliases": [
+      "Hedrabad",
+      "Bhagyanagar",
+      "Secunderabad"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/hyderabad.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "PUN",
+    "name": "Pune",
+    "aliases": [
+      "Poona",
+      "Puna"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/pune.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "CHN",
+    "name": "Chennai",
+    "aliases": [
+      "Madras",
+      "Chenai"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/chennai.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "GUR",
+    "name": "Gurugram / Gurgaon",
+    "aliases": [
+      "Gurugram",
+      "Gurgaon",
+      "Gurgava"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/gurgaon.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NOI",
+    "name": "Noida",
+    "aliases": [
+      "Greater Noida",
+      "NOIDA",
+      "Gautam Budh Nagar"
+    ],
+    "icon": null,
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KOL",
+    "name": "Kolkata",
+    "aliases": [
+      "Calcutta",
+      "Kolkatta"
+    ],
+    "icon": "https://cdn.bookmyforex.com/city-image/kolkata.png",
+    "isTopCity": true,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "AGR",
+    "name": "Agra",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "AHM",
+    "name": "Ahmedabad",
+    "aliases": [
+      "Amdavad",
+      "Amadavad"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "AHMN",
+    "name": "Ahmednagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "AJM",
+    "name": "Ajmer",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "ALLA",
+    "name": "Allahabad",
+    "aliases": [
+      "Prayagraj"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "ALU",
+    "name": "Aluva",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "ALW",
+    "name": "Alwar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "AMB",
+    "name": "Ambala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "AMBC",
+    "name": "Ambala Cantonment",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "AMR",
+    "name": "Amritsar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "ANA",
+    "name": "Anand",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "ANK",
+    "name": "Ankleshwar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "AUR",
+    "name": "Aurangabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "AZM",
+    "name": "Azamgarh",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BGKT",
+    "name": "Bagalkot",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BPUR",
+    "name": "Bagha Purana",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BAN",
+    "name": "Baner",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BANG",
+    "name": "Banga",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BAR",
+    "name": "Bareilly",
+    "aliases": [
+      "Bareli"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "BARN",
+    "name": "Barnala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BTH",
+    "name": "Bathinda",
+    "aliases": [
+      "Bhatinda"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BELG",
+    "name": "Belgaum",
+    "aliases": [
+      "Belagavi"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BET",
+    "name": "Bettiah",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BHR",
+    "name": "Bharuch",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BHV",
+    "name": "Bhavnagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BHW",
+    "name": "Bhiwandi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BHP",
+    "name": "Bhopal",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "BHB",
+    "name": "Bhubaneswar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "BJP",
+    "name": "Bijapur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BIL",
+    "name": "Bilaspur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "BOD",
+    "name": "Bodakdev",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "CHK",
+    "name": "Chakan",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "CHA",
+    "name": "Chandigarh",
+    "aliases": [
+      "Chandigadh"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "CHP",
+    "name": "Chiplun",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "CHU",
+    "name": "Churu",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "COI",
+    "name": "Coimbatore",
+    "aliases": [
+      "Kovai"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "CUD",
+    "name": "Cuddalore",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "CUTT",
+    "name": "Cuttack",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "DAL",
+    "name": "Dalhousie",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DAM",
+    "name": "Daman",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DAR",
+    "name": "Darbhanga",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DARJ",
+    "name": "Darjeeling",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DAS",
+    "name": "Dasuya",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DEE",
+    "name": "Deesa",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DEH",
+    "name": "Dehradun",
+    "aliases": [
+      "Dehra Dun"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "DEW",
+    "name": "Dewas",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DHA",
+    "name": "Dharamshala",
+    "aliases": [
+      "Dharmsala",
+      "McLeod Ganj"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DHW",
+    "name": "Dharwad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DSN",
+    "name": "Dilsukh Nagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "DUR",
+    "name": "Durgapur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "ERN",
+    "name": "Ernakulam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "ERO",
+    "name": "Erode",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "FAR",
+    "name": "Faridabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "FATB",
+    "name": "Fatehabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "FATP",
+    "name": "Fatehpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "FER",
+    "name": "Ferozpur",
+    "aliases": [
+      "Ferozepur",
+      "Firozpur"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GDM",
+    "name": "Gandhidham",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GAN",
+    "name": "Gangtok",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GRD",
+    "name": "Gardhiwal",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GSH",
+    "name": "Garhshankar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GWP",
+    "name": "Gawli Palasia",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GAY",
+    "name": "Gaya",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GHZ",
+    "name": "Ghaziabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "GOA",
+    "name": "Goa",
+    "aliases": [
+      "Panaji",
+      "Panjim"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "GOK",
+    "name": "Gokak",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GOR",
+    "name": "Gorakhpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GNO",
+    "name": "Greater Noida",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "GUN",
+    "name": "Guntur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GDS",
+    "name": "Gurdaspur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "GWH",
+    "name": "Guwahati",
+    "aliases": [
+      "Gauhati"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "GWL",
+    "name": "Gwalior",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "HAN",
+    "name": "Hanmakonda",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "HIM",
+    "name": "Himatnagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "HSP",
+    "name": "Hoshiarpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "HSR",
+    "name": "Hosur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "HUBL",
+    "name": "Hubli",
+    "aliases": [
+      "Hubballi"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "IND",
+    "name": "Indore",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "JAB",
+    "name": "Jabalpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "JAG",
+    "name": "Jagraon",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JAI",
+    "name": "Jaipur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "JAL",
+    "name": "Jalandhar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "JLG",
+    "name": "Jalgaon",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JLP",
+    "name": "Jalpaiguri",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JAM",
+    "name": "Jammu",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "JMN",
+    "name": "Jamnagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JMS",
+    "name": "Jamshedpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JHJ",
+    "name": "Jhunjhunu",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "JOD",
+    "name": "Jodhpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KDP",
+    "name": "Kadapa",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KDY",
+    "name": "Kadayanallur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KLY",
+    "name": "Kalyan",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KLNI",
+    "name": "Kalyani",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KCH",
+    "name": "Kancheepuram",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KNG",
+    "name": "Kanhangad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KNR",
+    "name": "Kannur",
+    "aliases": [
+      "Cannanore"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KNP",
+    "name": "Kanpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KANY",
+    "name": "Kanyakumari",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KPR",
+    "name": "Kapurthala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KRK",
+    "name": "Karaikudi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KMN",
+    "name": "Karimnagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KRN",
+    "name": "Karnal",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KRR",
+    "name": "Karur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KAS",
+    "name": "Kasia",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KEO",
+    "name": "Keonjhar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KHA",
+    "name": "Khanna",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KOC",
+    "name": "Kochi",
+    "aliases": [
+      "Cochin",
+      "Ernakulam"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KLH",
+    "name": "Kolhapur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KLM",
+    "name": "Kollam",
+    "aliases": [
+      "Quilon"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KOT",
+    "name": "Kota",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KTY",
+    "name": "Kottayam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KZH",
+    "name": "Kozhikode",
+    "aliases": [
+      "Calicut"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "KSN",
+    "name": "Krishnanagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KUK",
+    "name": "Kukatpally",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KMB",
+    "name": "Kumbakonam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "KUR",
+    "name": "Kurukshetra",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "LAM",
+    "name": "Lambra",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "LEH",
+    "name": "Leh",
+    "aliases": [
+      "Ladakh"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "LKO",
+    "name": "Lucknow",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "LDH",
+    "name": "Ludhiana",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "MAD",
+    "name": "Madurai",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "MHP",
+    "name": "Mahilpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MNL",
+    "name": "Manali",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MNG",
+    "name": "Mangalore",
+    "aliases": [
+      "Mangaluru"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "MRG",
+    "name": "Margao",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MAU",
+    "name": "Mau",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MYL",
+    "name": "Mayiladuthurai",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MCL",
+    "name": "McLeod Ganj",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MRT",
+    "name": "Meerut",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MHS",
+    "name": "Mehsana",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MIL",
+    "name": "Miller Ganj",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MOG",
+    "name": "Moga",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MOH",
+    "name": "Mohali",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "MRD",
+    "name": "Moradabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MZF",
+    "name": "Muzaffarpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "MYS",
+    "name": "Mysore",
+    "aliases": [
+      "Mysuru"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NAD",
+    "name": "Nadiad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NGP",
+    "name": "Nagapattinam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NGC",
+    "name": "Nagercoil",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NAG",
+    "name": "Nagpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NKD",
+    "name": "Nakodar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NSK",
+    "name": "Nashik",
+    "aliases": [
+      "Nasik"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NVM",
+    "name": "Navi Mumbai",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NVS",
+    "name": "Navsari",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NWN",
+    "name": "Nawanshahr",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "NEL",
+    "name": "Nellore",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NIZ",
+    "name": "Nizamabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "NRP",
+    "name": "Nurpurbedi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PAD",
+    "name": "Padampur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PAL",
+    "name": "Pala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PLK",
+    "name": "Palakkad",
+    "aliases": [
+      "Palghat"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PCK",
+    "name": "Panchkula",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": true,
+    "serviceableNotes": true
+  },
+  {
+    "code": "PNP",
+    "name": "Panipat",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PAN",
+    "name": "Panji",
+    "aliases": [
+      "Panjim",
+      "Panaji"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PNV",
+    "name": "Panvel",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "PTH",
+    "name": "Pathanamthitta",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PTK",
+    "name": "Pathankot",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PTL",
+    "name": "Patiala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "PAT",
+    "name": "Patna",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "PEH",
+    "name": "Pehowa",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PHG",
+    "name": "Phagwara",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PHL",
+    "name": "Phillaur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "POL",
+    "name": "Pollachi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PDY",
+    "name": "Pondicherry",
+    "aliases": [
+      "Puducherry",
+      "Pondy"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PDK",
+    "name": "Pudukottai",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PNL",
+    "name": "Punalur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PUR",
+    "name": "Purasawalkam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "PUT",
+    "name": "Puttaparty",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "RAI",
+    "name": "Raipur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "RJK",
+    "name": "Rajkot",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "RAN",
+    "name": "Ranchi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "RAT",
+    "name": "Ratnagiri",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "RAZ",
+    "name": "Razole",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SAL",
+    "name": "Salem",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "SNG",
+    "name": "Sanganer",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SNI",
+    "name": "Sangli",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SEC",
+    "name": "Secunderabad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SHM",
+    "name": "Shimla",
+    "aliases": [
+      "Simla"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SHR",
+    "name": "Shirdi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SIL",
+    "name": "Siliguri",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SOL",
+    "name": "Solan",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SLP",
+    "name": "Solapur",
+    "aliases": [
+      "Sholapur"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SGN",
+    "name": "Sri Ganganagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SUD",
+    "name": "Sudhar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SUJ",
+    "name": "Sujangarh",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SUL",
+    "name": "Sultanpur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SUN",
+    "name": "Sunder-Nagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "SUR",
+    "name": "Surat",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "THL",
+    "name": "Talli haldwani",
+    "aliases": [
+      "Haldwani"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TAN",
+    "name": "Tanda",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TAR",
+    "name": "Taramani",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TTR",
+    "name": "Tarn Taran",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "THS",
+    "name": "Thalassery",
+    "aliases": [
+      "Tellicherry"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "THA",
+    "name": "Thane",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "THJ",
+    "name": "Thanjavur",
+    "aliases": [
+      "Tanjore"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "THV",
+    "name": "Thiruvalur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "THI",
+    "name": "Thiruvananthapuram",
+    "aliases": [
+      "Trivandrum"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "TVR",
+    "name": "Thiruvarur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TDP",
+    "name": "Thodupuzha",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TRI",
+    "name": "Thrissur",
+    "aliases": [
+      "Trichur"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TIRU",
+    "name": "Tiruchirappalli",
+    "aliases": [
+      "Trichy"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TPR",
+    "name": "Tirupur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "TRR",
+    "name": "Tirur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "UDP",
+    "name": "Udaipur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "UDU",
+    "name": "Udupi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "UJJ",
+    "name": "Ujjain",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "UNA",
+    "name": "Una",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "URA",
+    "name": "Urapar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VDK",
+    "name": "Vadakara",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VAD",
+    "name": "Vadodara",
+    "aliases": [
+      "Baroda"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "VVN",
+    "name": "Vallabh Vidyanagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VLS",
+    "name": "Valsad",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VAP",
+    "name": "Vapi",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VAR",
+    "name": "Varanasi",
+    "aliases": [
+      "Banaras",
+      "Kashi"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "VRK",
+    "name": "Varkala",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VAS",
+    "name": "Vastrapur",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VEL",
+    "name": "Vellore",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VER",
+    "name": "Verka",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VIJ",
+    "name": "Vijayawada",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "VIL",
+    "name": "Villupuram",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VIR",
+    "name": "Virugambakkam",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  },
+  {
+    "code": "VSK",
+    "name": "Visakhapatnam",
+    "aliases": [
+      "Vizag"
+    ],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "WRG",
+    "name": "Warangal",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": true
+  },
+  {
+    "code": "YMN",
+    "name": "Yamunanagar",
+    "aliases": [],
+    "icon": null,
+    "isTopCity": false,
+    "serviceableCard": false,
+    "serviceableNotes": false
+  }
+]

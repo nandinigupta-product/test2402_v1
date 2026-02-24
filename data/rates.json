@@ -1,0 +1,365 @@
+{
+  "lastUpdated": "2026-02-17T10:33:00Z",
+  "rates": [
+    {
+      "currency": "USD",
+      "cardRate": 83.0,
+      "notesRate": 83.35,
+      "notesComboRate": 83.2,
+      "symbol": "$",
+      "name": "US Dollar",
+      "image": "https://flagcdn.com/w40/us.png"
+    },
+    {
+      "currency": "THB",
+      "cardRate": 2.3,
+      "notesRate": 2.65,
+      "notesComboRate": 2.5,
+      "symbol": "\u0e3f",
+      "name": "Thai Baht",
+      "image": "https://flagcdn.com/w40/th.png"
+    },
+    {
+      "currency": "AED",
+      "cardRate": 22.7,
+      "notesRate": 23.05,
+      "notesComboRate": 22.9,
+      "symbol": "\u062f.\u0625",
+      "name": "UAE Dirham",
+      "image": "https://flagcdn.com/w40/ae.png"
+    },
+    {
+      "currency": "EUR",
+      "cardRate": 90.0,
+      "notesRate": 90.35,
+      "notesComboRate": 90.2,
+      "symbol": "\u20ac",
+      "name": "Euro",
+      "image": "https://flagcdn.com/w40/eu.png"
+    },
+    {
+      "currency": "SGD",
+      "cardRate": 62.0,
+      "notesRate": 62.35,
+      "notesComboRate": 62.2,
+      "symbol": "S$",
+      "name": "Singapore Dollar",
+      "image": "https://flagcdn.com/w40/sg.png"
+    },
+    {
+      "currency": "MYR",
+      "cardRate": 17.6,
+      "notesRate": 17.95,
+      "notesComboRate": 17.8,
+      "symbol": "RM",
+      "name": "Malaysian Ringgit",
+      "image": "https://flagcdn.com/w40/my.png"
+    },
+    {
+      "currency": "IDR",
+      "cardRate": 0.01,
+      "notesRate": 0.36,
+      "notesComboRate": 0.21,
+      "symbol": "Rp",
+      "name": "Indonesian Rupiah",
+      "image": "https://flagcdn.com/w40/id.png"
+    },
+    {
+      "currency": "GBP",
+      "cardRate": 105.0,
+      "notesRate": 105.35,
+      "notesComboRate": 105.2,
+      "symbol": "\u00a3",
+      "name": "British Pound",
+      "image": "https://flagcdn.com/w40/gb.png"
+    },
+    {
+      "currency": "JPY",
+      "cardRate": 0.56,
+      "notesRate": 0.91,
+      "notesComboRate": 0.76,
+      "symbol": "\u00a5",
+      "name": "Japanese Yen",
+      "image": "https://flagcdn.com/w40/jp.png"
+    },
+    {
+      "currency": "VND",
+      "cardRate": 0.0,
+      "notesRate": 0.35,
+      "notesComboRate": 0.2,
+      "symbol": "\u20ab",
+      "name": "Vietnamese Dong",
+      "image": "https://flagcdn.com/w40/vn.png"
+    },
+    {
+      "currency": "AUD",
+      "cardRate": 55.0,
+      "notesRate": 55.35,
+      "notesComboRate": 55.2,
+      "symbol": "A$",
+      "name": "Australian Dollar",
+      "image": "https://flagcdn.com/w40/au.png"
+    },
+    {
+      "currency": "BDT",
+      "cardRate": 0.76,
+      "notesRate": 1.11,
+      "notesComboRate": 0.96,
+      "symbol": "\u09f3",
+      "name": "Bangladesh Taka",
+      "image": "https://flagcdn.com/w40/bd.png"
+    },
+    {
+      "currency": "BHD",
+      "cardRate": 220.0,
+      "notesRate": 220.35,
+      "notesComboRate": 220.2,
+      "symbol": "\u0628.\u062f",
+      "name": "Bahraini Dinar",
+      "image": "https://flagcdn.com/w40/bh.png"
+    },
+    {
+      "currency": "BRL",
+      "cardRate": 16.7,
+      "notesRate": 17.05,
+      "notesComboRate": 16.9,
+      "symbol": "R$",
+      "name": "Brazilian Real",
+      "image": "https://flagcdn.com/w40/br.png"
+    },
+    {
+      "currency": "CAD",
+      "cardRate": 61.0,
+      "notesRate": 61.35,
+      "notesComboRate": 61.2,
+      "symbol": "C$",
+      "name": "Canadian Dollar",
+      "image": "https://flagcdn.com/w40/ca.png"
+    },
+    {
+      "currency": "CNY",
+      "cardRate": 11.5,
+      "notesRate": 11.85,
+      "notesComboRate": 11.7,
+      "symbol": "\u00a5",
+      "name": "Chinese Yuan",
+      "image": "https://flagcdn.com/w40/cn.png"
+    },
+    {
+      "currency": "CZK",
+      "cardRate": 3.6,
+      "notesRate": 3.95,
+      "notesComboRate": 3.8,
+      "symbol": "K\u010d",
+      "name": "Czech Koruna",
+      "image": "https://flagcdn.com/w40/cz.png"
+    },
+    {
+      "currency": "DKK",
+      "cardRate": 12.1,
+      "notesRate": 12.45,
+      "notesComboRate": 12.3,
+      "symbol": "kr",
+      "name": "Danish Krone",
+      "image": "https://flagcdn.com/w40/dk.png"
+    },
+    {
+      "currency": "EGP",
+      "cardRate": 1.7,
+      "notesRate": 2.05,
+      "notesComboRate": 1.9,
+      "symbol": "E\u00a3",
+      "name": "Egyptian Pound",
+      "image": "https://flagcdn.com/w40/eg.png"
+    },
+    {
+      "currency": "HKD",
+      "cardRate": 10.6,
+      "notesRate": 10.95,
+      "notesComboRate": 10.8,
+      "symbol": "HK$",
+      "name": "Hong Kong Dollar",
+      "image": "https://flagcdn.com/w40/hk.png"
+    },
+    {
+      "currency": "ILS",
+      "cardRate": 22.0,
+      "notesRate": 22.35,
+      "notesComboRate": 22.2,
+      "symbol": "\u20aa",
+      "name": "Israeli Shekel",
+      "image": "https://flagcdn.com/w40/il.png"
+    },
+    {
+      "currency": "KES",
+      "cardRate": 0.65,
+      "notesRate": 1.0,
+      "notesComboRate": 0.85,
+      "symbol": "KSh",
+      "name": "Kenyan Shilling",
+      "image": "https://flagcdn.com/w40/ke.png"
+    },
+    {
+      "currency": "KRW",
+      "cardRate": 0.06,
+      "notesRate": 0.41,
+      "notesComboRate": 0.26,
+      "symbol": "\u20a9",
+      "name": "Korean Won",
+      "image": "https://flagcdn.com/w40/kr.png"
+    },
+    {
+      "currency": "KWD",
+      "cardRate": 270.0,
+      "notesRate": 270.35,
+      "notesComboRate": 270.2,
+      "symbol": "\u062f.\u0643",
+      "name": "Kuwaiti Dinar",
+      "image": "https://flagcdn.com/w40/kw.png"
+    },
+    {
+      "currency": "MOP",
+      "cardRate": 10.3,
+      "notesRate": 10.65,
+      "notesComboRate": 10.5,
+      "symbol": "MOP$",
+      "name": "Macau Pataca",
+      "image": "https://flagcdn.com/w40/mo.png"
+    },
+    {
+      "currency": "MVR",
+      "cardRate": 5.4,
+      "notesRate": 5.75,
+      "notesComboRate": 5.6,
+      "symbol": "Rf",
+      "name": "Maldivian Rufiyaa",
+      "image": "https://flagcdn.com/w40/mv.png"
+    },
+    {
+      "currency": "MUR",
+      "cardRate": 1.8,
+      "notesRate": 2.15,
+      "notesComboRate": 2.0,
+      "symbol": "Rs",
+      "name": "Mauritius Rupee",
+      "image": "https://flagcdn.com/w40/mu.png"
+    },
+    {
+      "currency": "NZD",
+      "cardRate": 51.0,
+      "notesRate": 51.35,
+      "notesComboRate": 51.2,
+      "symbol": "NZ$",
+      "name": "New Zealand Dollar",
+      "image": "https://flagcdn.com/w40/nz.png"
+    },
+    {
+      "currency": "NOK",
+      "cardRate": 7.9,
+      "notesRate": 8.25,
+      "notesComboRate": 8.1,
+      "symbol": "kr",
+      "name": "Norwegian Krone",
+      "image": "https://flagcdn.com/w40/no.png"
+    },
+    {
+      "currency": "OMR",
+      "cardRate": 216.0,
+      "notesRate": 216.35,
+      "notesComboRate": 216.2,
+      "symbol": "\ufdfc",
+      "name": "Omani Rial",
+      "image": "https://flagcdn.com/w40/om.png"
+    },
+    {
+      "currency": "PHP",
+      "cardRate": 1.5,
+      "notesRate": 1.85,
+      "notesComboRate": 1.7,
+      "symbol": "\u20b1",
+      "name": "Philippine Peso",
+      "image": "https://flagcdn.com/w40/ph.png"
+    },
+    {
+      "currency": "PLN",
+      "cardRate": 21.0,
+      "notesRate": 21.35,
+      "notesComboRate": 21.2,
+      "symbol": "z\u0142",
+      "name": "Polish Zloty",
+      "image": "https://flagcdn.com/w40/pl.png"
+    },
+    {
+      "currency": "QAR",
+      "cardRate": 22.8,
+      "notesRate": 23.15,
+      "notesComboRate": 23.0,
+      "symbol": "\u0631.\u0642",
+      "name": "Qatari Rial",
+      "image": "https://flagcdn.com/w40/qa.png"
+    },
+    {
+      "currency": "RUB",
+      "cardRate": 0.9,
+      "notesRate": 1.25,
+      "notesComboRate": 1.1,
+      "symbol": "\u20bd",
+      "name": "Russian Ruble",
+      "image": "https://flagcdn.com/w40/ru.png"
+    },
+    {
+      "currency": "SAR",
+      "cardRate": 22.2,
+      "notesRate": 22.55,
+      "notesComboRate": 22.4,
+      "symbol": "\ufdfc",
+      "name": "Saudi Riyal",
+      "image": "https://flagcdn.com/w40/sa.png"
+    },
+    {
+      "currency": "ZAR",
+      "cardRate": 4.5,
+      "notesRate": 4.85,
+      "notesComboRate": 4.7,
+      "symbol": "R",
+      "name": "South African Rand",
+      "image": "https://flagcdn.com/w40/za.png"
+    },
+    {
+      "currency": "LKR",
+      "cardRate": 0.27,
+      "notesRate": 0.62,
+      "notesComboRate": 0.47,
+      "symbol": "Rs",
+      "name": "Sri Lankan Rupee",
+      "image": "https://flagcdn.com/w40/lk.png"
+    },
+    {
+      "currency": "SEK",
+      "cardRate": 8.2,
+      "notesRate": 8.55,
+      "notesComboRate": 8.4,
+      "symbol": "kr",
+      "name": "Swedish Krona",
+      "image": "https://flagcdn.com/w40/se.png"
+    },
+    {
+      "currency": "CHF",
+      "cardRate": 94.0,
+      "notesRate": 94.35,
+      "notesComboRate": 94.2,
+      "symbol": "CHF",
+      "name": "Swiss Franc",
+      "image": "https://flagcdn.com/w40/ch.png"
+    },
+    {
+      "currency": "TRY",
+      "cardRate": 2.7,
+      "notesRate": 3.05,
+      "notesComboRate": 2.9,
+      "symbol": "\u20ba",
+      "name": "Turkish Lira",
+      "image": "https://flagcdn.com/w40/tr.png"
+    }
+  ]
+}
