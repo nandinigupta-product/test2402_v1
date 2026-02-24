@@ -1,0 +1,282 @@
+[
+  {
+    "code": "USD",
+    "name": "US Dollar",
+    "popular": true,
+    "rightLabel": "USA, Maldives + 170 countries",
+    "searchTerms": "usd us dollar usa america united states new york los angeles chicago washington san francisco"
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "popular": true,
+    "rightLabel": "Thailand",
+    "searchTerms": "thb thai baht thailand bangkok chiang mai phuket pattaya krabi ayutthaya hua hin samui chiang rai sukhothai"
+  },
+  {
+    "code": "AED",
+    "name": "UAE Dirham",
+    "popular": true,
+    "rightLabel": "United Arab Emirates",
+    "searchTerms": "aed uae dirham dubai abu dhabi sharjah ajman fujairah ras al khaimah umm al quwain united arab emirates"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "popular": true,
+    "rightLabel": "France, Germany + 45 countries",
+    "searchTerms": "eur euro europe france germany italy spain paris rome berlin amsterdam barcelona vienna prague brussels athens lisbon dublin helsinki stockholm copenhagen european union"
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "popular": true,
+    "rightLabel": "Singapore",
+    "searchTerms": "sgd singapore dollar sing jurong east woodlands tampines changi bukit timah marina bay sentosa orchard road"
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "popular": true,
+    "rightLabel": "Malaysia",
+    "searchTerms": "myr malaysian ringgit ringgits malaysia kuala lumpur langkawi penang"
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "popular": true,
+    "rightLabel": "Indonesia",
+    "searchTerms": "idr indonesian rupiah indonesia bali jakarta"
+  },
+  {
+    "code": "GBP",
+    "name": "British Pound",
+    "popular": true,
+    "rightLabel": "United Kingdom (UK)",
+    "searchTerms": "gbp british pound uk united kingdom britain england london birmingham glasgow manchester edinburgh liverpool bristol sheffield leeds sterling"
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "popular": true,
+    "rightLabel": "Japan",
+    "searchTerms": "jpy japanese yen japan tokyo yokohama osaka nagoya sapporo kobe kyoto fukuoka hiroshima"
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese Dong",
+    "popular": true,
+    "rightLabel": "Vietnam",
+    "searchTerms": "vnd vietnam dong vietnamese hanoi ho chi minh city saigon da nang ha long bay"
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "popular": false,
+    "rightLabel": "Australia",
+    "searchTerms": "aud australian dollar australia sydney melbourne brisbane aussie"
+  },
+  {
+    "code": "BDT",
+    "name": "Bangladesh Taka",
+    "popular": false,
+    "rightLabel": "Bangladesh",
+    "searchTerms": "bdt bangladesh taka dhaka chittagong"
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "popular": false,
+    "rightLabel": "Bahrain",
+    "searchTerms": "bhd bahraini dinar bahrain manama"
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "popular": false,
+    "rightLabel": "Brazil",
+    "searchTerms": "brl brazilian real brazil rio de janeiro sao paulo são paulo"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "popular": false,
+    "rightLabel": "Canada",
+    "searchTerms": "cad canadian dollar canada toronto vancouver montreal"
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "popular": false,
+    "rightLabel": "China",
+    "searchTerms": "cny chinese yuan china beijing shanghai guangzhou rmb renminbi"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "popular": false,
+    "rightLabel": "Czech Republic",
+    "searchTerms": "czk czech koruna czech republic prague"
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "popular": false,
+    "rightLabel": "Denmark",
+    "searchTerms": "dkk danish krone denmark copenhagen"
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "popular": false,
+    "rightLabel": "Egypt",
+    "searchTerms": "egp egyptian pound egypt cairo alexandria sharm el-sheikh"
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "popular": false,
+    "rightLabel": "Hong Kong",
+    "searchTerms": "hkd hong kong dollar hk"
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli Shekel",
+    "popular": false,
+    "rightLabel": "Israel",
+    "searchTerms": "ils israeli shekel israel tel aviv jerusalem"
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan Shilling",
+    "popular": false,
+    "rightLabel": "Kenya",
+    "searchTerms": "kes kenyan shilling kenya nairobi mombasa"
+  },
+  {
+    "code": "KRW",
+    "name": "Korean Won",
+    "popular": false,
+    "rightLabel": "South Korea",
+    "searchTerms": "krw korean won south korea seoul busan jeju"
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "popular": false,
+    "rightLabel": "Kuwait",
+    "searchTerms": "kwd kuwaiti dinar kuwait kuwait city"
+  },
+  {
+    "code": "MOP",
+    "name": "Macau Pataca",
+    "popular": false,
+    "rightLabel": "Macau",
+    "searchTerms": "mop macau pataca casinos"
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "popular": false,
+    "rightLabel": "Maldives",
+    "searchTerms": "mvr maldivian rufiyaa maldives male resort islands"
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritius Rupee",
+    "popular": false,
+    "rightLabel": "Mauritius",
+    "searchTerms": "mur mauritius rupee port louis grand baie"
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "popular": false,
+    "rightLabel": "New Zealand",
+    "searchTerms": "nzd new zealand dollar auckland queenstown wellington kiwi"
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "popular": false,
+    "rightLabel": "Norway",
+    "searchTerms": "nok norwegian krone norway oslo bergen"
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "popular": false,
+    "rightLabel": "Oman",
+    "searchTerms": "omr omani rial oman muscat salalah riyal"
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "popular": false,
+    "rightLabel": "Philippines",
+    "searchTerms": "php philippine peso philippines manila cebu boracay"
+  },
+  {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "popular": false,
+    "rightLabel": "Poland",
+    "searchTerms": "pln polish zloty poland warsaw krakow"
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Rial",
+    "popular": false,
+    "rightLabel": "Qatar",
+    "searchTerms": "qar qatari rial qatar doha riyal"
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "popular": false,
+    "rightLabel": "Russia",
+    "searchTerms": "rub russian ruble russia moscow st petersburg saint petersburg"
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "popular": false,
+    "rightLabel": "Saudi Arabia",
+    "searchTerms": "sar saudi riyal saudi arabia riyadh jeddah mecca medina ksa"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "popular": false,
+    "rightLabel": "South Africa",
+    "searchTerms": "zar south african rand south africa cape town johannesburg durban"
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "popular": false,
+    "rightLabel": "Sri Lanka",
+    "searchTerms": "lkr sri lankan rupee sri lanka colombo kandy galle"
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "popular": false,
+    "rightLabel": "Sweden",
+    "searchTerms": "sek swedish krona sweden stockholm gothenburg"
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "popular": false,
+    "rightLabel": "Switzerland",
+    "searchTerms": "chf swiss franc switzerland zurich geneva interlaken lucerne"
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "popular": false,
+    "rightLabel": "Turkey",
+    "searchTerms": "try turkish lira turkey istanbul antalya cappadocia"
+  }
+]
